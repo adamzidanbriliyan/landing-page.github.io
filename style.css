@@ -288,15 +288,6 @@ li:nth-child(2) i {
 	font-size: 10px;
 }
 
-	/*Dark mode class*/
-
-.dark-mode {
-	--clr-background: #263238;
-	--clr-base: black;
-	--clr-primary: #69f0ae;
-	--clr-gray: #e0f7fa;
-}
-
 	/* Clearfix */
 
 .cf:before,
