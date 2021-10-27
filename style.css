@@ -217,10 +217,6 @@ li:nth-child(2) i {
 	left: 39px;
 }
 
-.sidebar-profil .home:active {
-	font-size: 15px;
-}
-
 .fa-home {
 	color: rgb(0,13,84);
 	position: absolute;
